@@ -1,4 +1,4 @@
-import { MEDIA } from './media.js?v=e1990e019f0a';
+import { MEDIA } from './media.js?v=8e2fccf584c7';
 // No requests or personal data are sent by this module. The visitor opens their chosen messenger.
 export function createInquiry({ DATA, url, esc, icon, link, ext, toast, setupDates, datesValid, dialog }) {
   let draft = {}, lastContext = '', lastReview = false;

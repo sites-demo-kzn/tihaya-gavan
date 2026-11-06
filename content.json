@@ -143,13 +143,13 @@
     {
       "route": "/razmeshchenie/nomera/nomer-srubovyj",
       "title": "Срубовый",
-      "cover": "assets/492b7f19cf1a.jpg",
+      "cover": "assets/475b6f84757f.jpg",
       "capacity": 4,
       "price": "от 5 700 ₽",
       "source": "https://tg63.ru/razmeshchenie/nomera/nomer-srubovyj/",
       "photos": [
-        "assets/492b7f19cf1a.jpg",
         "assets/475b6f84757f.jpg",
+        "assets/492b7f19cf1a.jpg",
         "assets/0ac4c472d131.jpg",
         "assets/1831ae12c8be.jpg",
         "assets/2dbbe9aa3db4.jpg",
@@ -305,13 +305,13 @@
     {
       "route": "/razmeshchenie/kottedzhi/novyj-dom",
       "title": "Коттедж 11/1",
-      "cover": "assets/ce5e6a02773d.jpg",
+      "cover": "assets/df2022d65c4b.jpg",
       "capacity": 6,
       "price": "от 8 900 ₽",
       "source": "https://tg63.ru/razmeshchenie/kottedzhi/novyj-dom",
       "photos": [
-        "assets/ce5e6a02773d.jpg",
         "assets/df2022d65c4b.jpg",
+        "assets/ce5e6a02773d.jpg",
         "assets/e7358fa919cd.jpg",
         "assets/b9a9b57d70c7.jpg",
         "assets/6a1b5c2ed53d.jpg",
@@ -1074,14 +1074,14 @@
     {
       "route": "/letnie-verany/terrasa-nad-volgoj",
       "title": "Веранда Терраса у Лодочной",
-      "cover": "assets/15f46f48b77e.jpg",
+      "cover": "assets/26e377a0f461.jpg",
       "capacity": null,
       "price": "550 ₽",
       "source": "https://tg63.ru/letnie-verany/terrasa-nad-volgoj",
       "photos": [
+        "assets/26e377a0f461.jpg",
         "assets/15f46f48b77e.jpg",
         "assets/38f752dff322.jpg",
-        "assets/26e377a0f461.jpg",
         "assets/5bb8bdebacf2.jpg",
         "assets/f6496de270cd.jpg",
         "assets/619708c4aee2.jpg",
@@ -1507,7 +1507,6 @@
       "source": "https://tg63.ru/meropriyatiya/korporativnye-meropriyatiya",
       "photos": [
         "assets/25d50ed9f0ff.jpg",
-        "assets/dd2a976df6c0.jpg",
         "assets/1a8b65733ce6.jpg",
         "assets/ad61a02e98bf.jpg",
         "assets/49d7e19f35b3.jpg",
@@ -1530,7 +1529,6 @@
       "source": "https://tg63.ru/meropriyatiya/detskie-prazdniki",
       "photos": [
         "assets/4e6c3600e20a.jpg",
-        "assets/4e314de19566.jpg",
         "assets/37b459c044d2.jpg",
         "assets/9107487b9542.jpg",
         "assets/f4cdb17ff7c8.jpg",
@@ -1553,7 +1551,6 @@
       "source": "https://tg63.ru/meropriyatiya/vypusknye",
       "photos": [
         "assets/2811cf3a5916.jpg",
-        "assets/07269b23e192.jpg",
         "assets/e211ec90aab8.jpg",
         "assets/2c781f79e8a1.jpg",
         "assets/73c47491def1.jpg",
@@ -1575,7 +1572,6 @@
       "source": "https://tg63.ru/meropriyatiya/dni-rozhdeniya-yubilei",
       "photos": [
         "assets/b48c32afba6d.jpg",
-        "assets/5dbf493e9610.jpg",
         "assets/b0eef3e36507.jpg",
         "assets/5c9a0ce8d448.jpg",
         "assets/e020b5172b4c.jpg",
@@ -1621,7 +1617,6 @@
       "source": "https://tg63.ru/meropriyatiya/pejntbol-lazertag-gidrobol",
       "photos": [
         "assets/b02b5e2f22ca.jpg",
-        "assets/033a1f00411d.jpg",
         "assets/1c54c9afeec9.jpg",
         "assets/6b39057f8e6a.jpg",
         "assets/85a0939f249d.jpg",
@@ -1644,7 +1639,6 @@
       "source": "https://tg63.ru/meropriyatiya/kvesty",
       "photos": [
         "assets/2af6912450f1.jpg",
-        "assets/b82014becc97.jpg",
         "assets/716f0bc79a39.jpg",
         "assets/8fd29ab04fbb.webp",
         "assets/92c21661b248.webp",
@@ -1689,7 +1683,6 @@
       "source": "https://tg63.ru/meropriyatiya/uroki-verhovoj-ezdy",
       "photos": [
         "assets/cdb8b23d93d1.jpg",
-        "assets/4adc5ae1fb9f.jpg",
         "assets/375212c3feec.jpg",
         "assets/48dfa384a13f.jpg",
         "assets/af5c75c35369.jpg",
@@ -1712,7 +1705,6 @@
       "source": "https://tg63.ru/meropriyatiya/kataniya-na-bajdarkah-i-kanoe",
       "photos": [
         "assets/59a224995e8c.jpg",
-        "assets/2d7113699172.jpg",
         "assets/d0a96bef28e2.jpg",
         "assets/475544bdcd82.jpg",
         "assets/9d64ba5d8e33.jpg",
@@ -1735,7 +1727,6 @@
       "source": "https://tg63.ru/meropriyatiya/veloprokat",
       "photos": [
         "assets/b85fde7d0347.jpg",
-        "assets/612591e34c10.jpg",
         "assets/a82c7a46e9d8.jpg",
         "assets/85116a299a96.jpg",
         "assets/080e825ba93c.jpg",
@@ -1757,7 +1748,6 @@
       "source": "https://tg63.ru/meropriyatiya/vyezdnaya-rybalka-arenda-katera",
       "photos": [
         "assets/caf5fd333b4c.jpg",
-        "assets/e587ae193ef7.jpg",
         "assets/2294fdd35640.jpg",
         "assets/88315f63e287.jpg",
         "assets/aa94c5fbfda6.jpg",
@@ -1778,7 +1768,6 @@
       "source": "https://tg63.ru/meropriyatiya/pokatushki",
       "photos": [
         "assets/5084da5c4422.jpg",
-        "assets/fd01a70b4710.jpg",
         "assets/128bbf6d2d86.jpg",
         "assets/b857ec4f224b.jpg",
         "assets/bd04ea8ea61b.jpg",
@@ -1799,7 +1788,6 @@
       "source": "https://tg63.ru/meropriyatiya/svadby",
       "photos": [
         "assets/fb02c455b5c5.jpg",
-        "assets/89c80810e84f.jpg",
         "assets/ea443d349fcb.jpg",
         "assets/38d25a4d8576.jpg",
         "assets/d18d00011ba9.jpg",
@@ -1976,7 +1964,6 @@
       "source": "https://tg63.ru/meropriyatiya/svadby",
       "title": "Свадьбы",
       "photos": [
-        "assets/89c80810e84f.jpg",
         "assets/fb02c455b5c5.jpg",
         "assets/ea443d349fcb.jpg",
         "assets/38d25a4d8576.jpg",
@@ -1992,7 +1979,6 @@
       "source": "https://tg63.ru/meropriyatiya/korporativnye-meropriyatiya",
       "title": "Корпоративные мероприятия",
       "photos": [
-        "assets/dd2a976df6c0.jpg",
         "assets/25d50ed9f0ff.jpg",
         "assets/1a8b65733ce6.jpg",
         "assets/ad61a02e98bf.jpg",
@@ -2030,7 +2016,6 @@
       "source": "https://tg63.ru/meropriyatiya/vypusknye",
       "title": "Выпускные",
       "photos": [
-        "assets/07269b23e192.jpg",
         "assets/2811cf3a5916.jpg",
         "assets/e211ec90aab8.jpg",
         "assets/2c781f79e8a1.jpg",
@@ -2153,20 +2138,8 @@
       "source": "https://tg63.ru/meropriyatiya",
       "title": "Мероприятия в Тихой Гавани",
       "photos": [
-        "assets/89c80810e84f.jpg",
-        "assets/dd2a976df6c0.jpg",
-        "assets/4e314de19566.jpg",
-        "assets/07269b23e192.jpg",
-        "assets/5dbf493e9610.jpg",
         "assets/21c6e6d9e634.jpg",
-        "assets/033a1f00411d.jpg",
-        "assets/b82014becc97.jpg",
-        "assets/da7c21c5e4a0.jpg",
-        "assets/4adc5ae1fb9f.jpg",
-        "assets/2d7113699172.jpg",
-        "assets/612591e34c10.jpg",
-        "assets/e587ae193ef7.jpg",
-        "assets/fd01a70b4710.jpg"
+        "assets/da7c21c5e4a0.jpg"
       ],
       "tables": []
     },
@@ -2597,7 +2570,6 @@
       "source": "https://tg63.ru/meropriyatiya/detskie-prazdniki",
       "title": "Детские праздники",
       "photos": [
-        "assets/4e314de19566.jpg",
         "assets/4e6c3600e20a.jpg",
         "assets/37b459c044d2.jpg",
         "assets/9107487b9542.jpg",
@@ -2647,7 +2619,6 @@
       "source": "https://tg63.ru/meropriyatiya/dni-rozhdeniya-yubilei",
       "title": "Дни рождения, юбилеи",
       "photos": [
-        "assets/5dbf493e9610.jpg",
         "assets/b48c32afba6d.jpg",
         "assets/b0eef3e36507.jpg",
         "assets/5c9a0ce8d448.jpg",
@@ -2663,7 +2634,6 @@
       "source": "https://tg63.ru/meropriyatiya/pejntbol-lazertag-gidrobol",
       "title": "Пейнтбол / лазертаг / гидробол",
       "photos": [
-        "assets/033a1f00411d.jpg",
         "assets/b02b5e2f22ca.jpg",
         "assets/1c54c9afeec9.jpg",
         "assets/6b39057f8e6a.jpg",
@@ -2679,7 +2649,6 @@
       "source": "https://tg63.ru/meropriyatiya/kvesty",
       "title": "Квесты",
       "photos": [
-        "assets/b82014becc97.jpg",
         "assets/2af6912450f1.jpg",
         "assets/716f0bc79a39.jpg",
         "assets/8fd29ab04fbb.webp",
@@ -2694,7 +2663,6 @@
       "source": "https://tg63.ru/meropriyatiya/veloprokat",
       "title": "Велопрокат",
       "photos": [
-        "assets/612591e34c10.jpg",
         "assets/b85fde7d0347.jpg",
         "assets/a82c7a46e9d8.jpg",
         "assets/85116a299a96.jpg",
@@ -2709,7 +2677,6 @@
       "source": "https://tg63.ru/meropriyatiya/vyezdnaya-rybalka-arenda-katera",
       "title": "Выездная рыбалка аренда катера",
       "photos": [
-        "assets/e587ae193ef7.jpg",
         "assets/caf5fd333b4c.jpg",
         "assets/2294fdd35640.jpg",
         "assets/88315f63e287.jpg",
@@ -2723,7 +2690,6 @@
       "source": "https://tg63.ru/meropriyatiya/uroki-verhovoj-ezdy",
       "title": "Уроки верховой езды",
       "photos": [
-        "assets/4adc5ae1fb9f.jpg",
         "assets/cdb8b23d93d1.jpg",
         "assets/375212c3feec.jpg",
         "assets/48dfa384a13f.jpg",
@@ -2739,7 +2705,6 @@
       "source": "https://tg63.ru/meropriyatiya/kataniya-na-bajdarkah-i-kanoe",
       "title": "Катания на байдарках и каноэ",
       "photos": [
-        "assets/2d7113699172.jpg",
         "assets/59a224995e8c.jpg",
         "assets/d0a96bef28e2.jpg",
         "assets/475544bdcd82.jpg",
@@ -2755,7 +2720,6 @@
       "source": "https://tg63.ru/meropriyatiya/pokatushki",
       "title": "Покатушки",
       "photos": [
-        "assets/fd01a70b4710.jpg",
         "assets/5084da5c4422.jpg",
         "assets/128bbf6d2d86.jpg",
         "assets/b857ec4f224b.jpg",

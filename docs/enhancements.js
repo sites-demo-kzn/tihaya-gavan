@@ -1,3 +1,5 @@
+import { setupMotion } from './motion.js?v=8e2fccf584c7';
+
 export function enhanceInterface({ DATA, url, icon, openInquiry }) {
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
   const header = document.querySelector('.header');
@@ -13,14 +15,7 @@ export function enhanceInterface({ DATA, url, icon, openInquiry }) {
     });
   }
   window.addEventListener('scroll',scrollState,{passive:true});scrollState();
-  if(!reduced.matches && 'IntersectionObserver' in window){
-    const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{
-      if(entry.isIntersecting){entry.target.classList.add('is-visible');observer.unobserve(entry.target);}
-    }),{threshold:.07,rootMargin:'0px 0px 30px 0px'});
-    document.querySelectorAll('.section-heading,.intro>div,.experience-card,.celebration-grid>div,.contact-strip .wrap>div').forEach((element,i)=>{
-      element.classList.add('reveal');element.style.setProperty('--reveal-delay',`${Math.min(i%4,2)*60}ms`);observer.observe(element);
-    });
-  }
+  setupMotion();
   const object=DATA.catalog.find(c=>c.route===document.body.dataset.route);
   const bar=document.createElement('div');bar.className='mobile-booking-bar';
   bar.innerHTML=`<a href="tel:+79278925589" class="mobile-call" aria-label="Позвонить в Тихую Гавань">${icon('phone')}</a><button class="btn">${object?'Даты и стоимость':'Спланировать отдых'} ${icon('arrow')}</button>`;
@@ -37,9 +32,6 @@ export function enhanceInterface({ DATA, url, icon, openInquiry }) {
     modal.addEventListener('close',()=>modal.classList.remove('is-open'));
     new MutationObserver(()=>modal.classList.toggle('is-open',modal.open)).observe(modal,{attributes:true,attributeFilter:['open']});
   });
-  document.querySelectorAll('.faq details').forEach(item=>item.addEventListener('toggle',()=>{
-    if(item.open)document.querySelectorAll('.faq details[open]').forEach(other=>{if(other!==item)other.open=false;});
-  }));
   const player=document.createElement('dialog');player.className='video-dialog';player.setAttribute('aria-label','Видео о турбазе');document.body.append(player);
   document.addEventListener('click',event=>{
     const trigger=event.target.closest('a[data-video]');if(!trigger)return;

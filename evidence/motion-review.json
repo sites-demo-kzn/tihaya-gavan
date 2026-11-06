@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-06",
+  "scope": "Local content motion, source photo quality and mobile Safari header fit; no creative header redesign",
+  "media": {
+    "reviewed": 400,
+    "removedSmallThumbnails": 12,
+    "replacedCovers": 3,
+    "nativeOriginals": 107,
+    "noEnlargementInLightbox": true
+  },
+  "verification": {
+    "routes": 71,
+    "routeLayouts": 142,
+    "layoutFailures": [],
+    "checks": 28,
+    "failures": [],
+    "errors": []
+  },
+  "extraChecks": {
+    "chromeExperienceAndMosaicScreenshots": "visually passed; photos visible in cropped viewport captures",
+    "reducedMotionHover": "passed",
+    "safariWidths": [
+      360,
+      390,
+      430
+    ],
+    "realIphone": "not physically tested"
+  },
+  "publication": "not published; prior public revision unchanged"
+}

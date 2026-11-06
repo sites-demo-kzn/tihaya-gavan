@@ -1,0 +1,7 @@
+research/
+node_modules/
+.DS_Store
+.task-tools/
+tools/*
+!tools/build.mjs
+!tools/serve.mjs

@@ -1,0 +1,3626 @@
+{
+  "restorationPolicy": "Conservative technical restoration of real photographs; no invented facilities. All other images rebuilt from source originals.",
+  "largerOriginals": 152,
+  "photos": {
+    "assets/7f1dbc4c5683.jpg": {
+      "source": "https://tg63.ru/images/map.png",
+      "originalWidth": 1002,
+      "originalHeight": 601,
+      "previousWidth": 1002,
+      "outputWidth": 1002,
+      "outputHeight": 601,
+      "aiRestored": false
+    },
+    "assets/23e60551adb8.jpg": {
+      "source": "https://tg63.ru/main/images/001.png",
+      "originalWidth": 1920,
+      "originalHeight": 679,
+      "previousWidth": 1600,
+      "outputWidth": 2108,
+      "outputHeight": 746,
+      "aiRestored": true,
+      "restoration": "hero",
+      "reviewed": true
+    },
+    "assets/b813d4f99ceb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/001.jpg",
+      "originalWidth": 1313,
+      "originalHeight": 793,
+      "previousWidth": 1313,
+      "outputWidth": 1313,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/564581f56abe.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/002.jpg",
+      "originalWidth": 1312,
+      "originalHeight": 793,
+      "previousWidth": 1312,
+      "outputWidth": 1312,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/63c5e4136adc.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/004.jpg",
+      "originalWidth": 1312,
+      "originalHeight": 793,
+      "previousWidth": 1312,
+      "outputWidth": 1312,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/a53b895f963b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/003.jpg",
+      "originalWidth": 1312,
+      "originalHeight": 793,
+      "previousWidth": 1312,
+      "outputWidth": 1312,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/e523d062403e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/005.jpg",
+      "originalWidth": 1313,
+      "originalHeight": 793,
+      "previousWidth": 1313,
+      "outputWidth": 1313,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/4c7cda32227b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/006.jpg",
+      "originalWidth": 1313,
+      "originalHeight": 793,
+      "previousWidth": 1313,
+      "outputWidth": 1313,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/da6737b67208.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/007.jpg",
+      "originalWidth": 1313,
+      "originalHeight": 793,
+      "previousWidth": 1313,
+      "outputWidth": 1313,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/f2236550d346.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/008.jpg",
+      "originalWidth": 1313,
+      "originalHeight": 793,
+      "previousWidth": 1313,
+      "outputWidth": 1313,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/156d7d79ed1e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/00c29452-40f1-4ebc-bfeb-2c9e2562570d.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 810,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 810,
+      "aiRestored": false
+    },
+    "assets/654e466d8ed8.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/009.png",
+      "originalWidth": 809,
+      "originalHeight": 461,
+      "previousWidth": 809,
+      "outputWidth": 809,
+      "outputHeight": 461,
+      "aiRestored": false
+    },
+    "assets/21c6e6d9e634.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/009.jpg",
+      "originalWidth": 1313,
+      "originalHeight": 793,
+      "previousWidth": 1313,
+      "outputWidth": 1313,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/ad82e3d47029.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/010.jpg",
+      "originalWidth": 1313,
+      "originalHeight": 793,
+      "previousWidth": 1313,
+      "outputWidth": 1313,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/9c1c2181728f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/011.png",
+      "originalWidth": 809,
+      "originalHeight": 460,
+      "previousWidth": 809,
+      "outputWidth": 809,
+      "outputHeight": 460,
+      "aiRestored": false
+    },
+    "assets/c45cc1987af8.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/011.jpg",
+      "originalWidth": 1313,
+      "originalHeight": 793,
+      "previousWidth": 1313,
+      "outputWidth": 1313,
+      "outputHeight": 793,
+      "aiRestored": false
+    },
+    "assets/85db5f609d04.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/016.png",
+      "originalWidth": 205,
+      "originalHeight": 57,
+      "previousWidth": 205,
+      "outputWidth": 205,
+      "outputHeight": 57,
+      "aiRestored": false
+    },
+    "assets/768c38fb0261.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/012.jpg",
+      "originalWidth": 1679,
+      "originalHeight": 1014,
+      "previousWidth": 1600,
+      "outputWidth": 1679,
+      "outputHeight": 1014,
+      "aiRestored": false
+    },
+    "assets/d6e202d71507.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/012.png",
+      "originalWidth": 809,
+      "originalHeight": 460,
+      "previousWidth": 809,
+      "outputWidth": 809,
+      "outputHeight": 460,
+      "aiRestored": false
+    },
+    "assets/5253dfa4f475.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/017.png",
+      "originalWidth": 261,
+      "originalHeight": 60,
+      "previousWidth": 261,
+      "outputWidth": 261,
+      "outputHeight": 60,
+      "aiRestored": false
+    },
+    "assets/58e4b6616800.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/018.png",
+      "originalWidth": 215,
+      "originalHeight": 70,
+      "previousWidth": 215,
+      "outputWidth": 215,
+      "outputHeight": 70,
+      "aiRestored": false
+    },
+    "assets/1ec0e25bcfa3.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/019.png",
+      "originalWidth": 221,
+      "originalHeight": 119,
+      "previousWidth": 221,
+      "outputWidth": 221,
+      "outputHeight": 119,
+      "aiRestored": false
+    },
+    "assets/840ee11b76d5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/139306d7-8032-00fe-a4b9-69a5384f045d_beldom1_440_808_2_.jpg",
+      "originalWidth": 808,
+      "originalHeight": 440,
+      "previousWidth": 808,
+      "outputWidth": 1701,
+      "outputHeight": 925,
+      "aiRestored": true,
+      "restoration": "white-house",
+      "reviewed": true
+    },
+    "assets/cb17fd10427c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/Rectangle-15.png",
+      "originalWidth": 809,
+      "originalHeight": 460,
+      "previousWidth": 809,
+      "outputWidth": 809,
+      "outputHeight": 460,
+      "aiRestored": false
+    },
+    "assets/5742b325c877.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_1407.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/f80372dd1396.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_1409.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/d8655ce0b2fe.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_1411.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/b8b400b561af.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_3111-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/d1cbd9723b50.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_3112-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/841006cdb3b7.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/felehfn9aoc.jpg",
+      "originalWidth": 520,
+      "originalHeight": 520,
+      "previousWidth": 520,
+      "outputWidth": 1254,
+      "outputHeight": 1254,
+      "aiRestored": true,
+      "restoration": "dabl-upper",
+      "reviewed": true
+    },
+    "assets/73a87122cc48.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_3117-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/52625d5ee957.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/ffvhpbkte1i.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 1086,
+      "outputHeight": 1448,
+      "aiRestored": true,
+      "restoration": "chalet",
+      "reviewed": true
+    },
+    "assets/05b301d9747f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/mqllzuniddi.jpg",
+      "originalWidth": 520,
+      "originalHeight": 346,
+      "previousWidth": 520,
+      "outputWidth": 1538,
+      "outputHeight": 1023,
+      "aiRestored": true,
+      "restoration": "standard-room",
+      "reviewed": true
+    },
+    "assets/e036b51f474b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/nxbtstlmuk8.jpg",
+      "originalWidth": 520,
+      "originalHeight": 390,
+      "previousWidth": 520,
+      "outputWidth": 1448,
+      "outputHeight": 1086,
+      "aiRestored": true,
+      "restoration": "cottage-11-2",
+      "reviewed": true
+    },
+    "assets/300d804497b7.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/pqsl6gfjdzw.jpg",
+      "originalWidth": 520,
+      "originalHeight": 390,
+      "previousWidth": 520,
+      "outputWidth": 1448,
+      "outputHeight": 1086,
+      "aiRestored": true,
+      "restoration": "cottage-dabl",
+      "reviewed": true
+    },
+    "assets/c5702d0cb40f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/ujl1uvoibg.jpg",
+      "originalWidth": 520,
+      "originalHeight": 346,
+      "previousWidth": 520,
+      "outputWidth": 1538,
+      "outputHeight": 1023,
+      "aiRestored": true,
+      "restoration": "standard-plus",
+      "reviewed": true
+    },
+    "assets/8f8a0cc220d1.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/rahnwnflao8.jpg",
+      "originalWidth": 520,
+      "originalHeight": 347,
+      "previousWidth": 520,
+      "outputWidth": 1535,
+      "outputHeight": 1024,
+      "aiRestored": true,
+      "restoration": "banquet-cottage",
+      "reviewed": true
+    },
+    "assets/492b7f19cf1a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/001-1.jpg",
+      "originalWidth": 808,
+      "originalHeight": 440,
+      "previousWidth": 808,
+      "outputWidth": 808,
+      "outputHeight": 440,
+      "aiRestored": false
+    },
+    "assets/ce5e6a02773d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/001.jpeg",
+      "originalWidth": 808,
+      "originalHeight": 440,
+      "previousWidth": 808,
+      "outputWidth": 808,
+      "outputHeight": 440,
+      "aiRestored": false
+    },
+    "assets/2b9be9a4b547.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/001-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/885dd8ed2f94.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_9775-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/97d88f049bb5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_4583-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/ff8e90617eb9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0717-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/d16ee9ca24a4.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0928-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/15f46f48b77e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6765.jpg",
+      "originalWidth": 756,
+      "originalHeight": 1008,
+      "previousWidth": 756,
+      "outputWidth": 756,
+      "outputHeight": 1008,
+      "aiRestored": false
+    },
+    "assets/2bab1fb6b637.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_4879.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 1471,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 1471,
+      "aiRestored": false
+    },
+    "assets/8d256cc3a89b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/ac9ed01f-7965-46f8-8ea7-118ac2e64037.png",
+      "originalWidth": 1440,
+      "originalHeight": 1080,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 1080,
+      "aiRestored": false
+    },
+    "assets/85bb072209f5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_0982-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/c29f0771fa98.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_1893.png",
+      "originalWidth": 1200,
+      "originalHeight": 1000,
+      "previousWidth": 1200,
+      "outputWidth": 1200,
+      "outputHeight": 1000,
+      "aiRestored": false
+    },
+    "assets/2a1212d7ae0e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9606-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/eb2bf2b9f933.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_8494.png",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/9e75864384c9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9654-1-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/3ce9c920b0ec.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_2830.png",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/7321baf14185.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9654-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/55330e2d30f8.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/rosagrolizing-313fc.png",
+      "originalWidth": 220,
+      "originalHeight": 99,
+      "previousWidth": 220,
+      "outputWidth": 220,
+      "outputHeight": 99,
+      "aiRestored": false
+    },
+    "assets/9f5bd06c1dd9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9811-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/a380d5925e7e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/tolyattihimbank.png",
+      "originalWidth": 220,
+      "originalHeight": 107,
+      "previousWidth": 220,
+      "outputWidth": 220,
+      "outputHeight": 107,
+      "aiRestored": false
+    },
+    "assets/7b20d7f0dd14.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9656.png",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/390d9f82f059.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2023/11/001-1-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/99386ad2c85f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/001-1024x768.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/5abcf2301072.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/02/861vqxqwoao.jpg",
+      "originalWidth": 972,
+      "originalHeight": 2160,
+      "previousWidth": 720,
+      "outputWidth": 972,
+      "outputHeight": 2160,
+      "aiRestored": false
+    },
+    "assets/afef826df29f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/002.jpg",
+      "originalWidth": 720,
+      "originalHeight": 720,
+      "previousWidth": 720,
+      "outputWidth": 720,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/11fb8fd608ac.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/004-1024x768.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/4fdb532112bb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/003.jpg",
+      "originalWidth": 720,
+      "originalHeight": 539,
+      "previousWidth": 720,
+      "outputWidth": 720,
+      "outputHeight": 539,
+      "aiRestored": false
+    },
+    "assets/efb8ec40a61e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/006-1024x768.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/0c31ca65c06f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/008-768x1024.jpg",
+      "originalWidth": 768,
+      "originalHeight": 1024,
+      "previousWidth": 768,
+      "outputWidth": 768,
+      "outputHeight": 1024,
+      "aiRestored": false
+    },
+    "assets/463462db0a49.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/009-1024x768.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/cdf55e83370c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/011-1024x768.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/94cc79b44dad.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/013-1024x768.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/f765587067d7.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/014-768x1024.jpg",
+      "originalWidth": 768,
+      "originalHeight": 1024,
+      "previousWidth": 768,
+      "outputWidth": 768,
+      "outputHeight": 1024,
+      "aiRestored": false
+    },
+    "assets/36cdc91d4d3a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/015-1024x768.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/383d0a823a27.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/016-1024x768.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/bde85491e03f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/017-819x1024.jpg",
+      "originalWidth": 819,
+      "originalHeight": 1024,
+      "previousWidth": 819,
+      "outputWidth": 819,
+      "outputHeight": 1024,
+      "aiRestored": false
+    },
+    "assets/d91697c5852f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/123.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 753,
+      "previousWidth": 1280,
+      "outputWidth": 1280,
+      "outputHeight": 753,
+      "aiRestored": false
+    },
+    "assets/38d25a4d8576.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/6-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/1c14abc9dd3e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/rectangle-15-1-2.png",
+      "originalWidth": 657,
+      "originalHeight": 352,
+      "previousWidth": 657,
+      "outputWidth": 657,
+      "outputHeight": 352,
+      "aiRestored": false
+    },
+    "assets/693e60fbea65.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/rectangle-15-1-1.png",
+      "originalWidth": 657,
+      "originalHeight": 352,
+      "previousWidth": 657,
+      "outputWidth": 657,
+      "outputHeight": 352,
+      "aiRestored": false
+    },
+    "assets/03b4aa9b9ec7.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/rectangle-15-1.png",
+      "originalWidth": 657,
+      "originalHeight": 352,
+      "previousWidth": 657,
+      "outputWidth": 657,
+      "outputHeight": 352,
+      "aiRestored": false
+    },
+    "assets/b2dfdfb8953e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/raz17.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 576,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 576,
+      "aiRestored": false
+    },
+    "assets/4fab83f95b9c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/cly0leqjx90.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 1086,
+      "outputHeight": 1448,
+      "aiRestored": true,
+      "restoration": "provence",
+      "reviewed": true
+    },
+    "assets/4b073504bf86.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/kwylnkceifi.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/4e6c3600e20a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/1-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 556,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 556,
+      "aiRestored": false
+    },
+    "assets/b88121b23a08.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2023/12/img_1527-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/cdb8b23d93d1.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/20932b.jpg",
+      "originalWidth": 1168,
+      "originalHeight": 830,
+      "previousWidth": 1168,
+      "outputWidth": 1168,
+      "outputHeight": 830,
+      "aiRestored": false
+    },
+    "assets/fb02c455b5c5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/3-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/caf5fd333b4c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/4-3.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/25d50ed9f0ff.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/3ddf65e374a7fdd3b782a6347ee5f195.jpg",
+      "originalWidth": 1800,
+      "originalHeight": 1198,
+      "previousWidth": 1600,
+      "outputWidth": 1800,
+      "outputHeight": 1198,
+      "aiRestored": false
+    },
+    "assets/b02b5e2f22ca.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/4.jpg",
+      "originalWidth": 800,
+      "originalHeight": 533,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 533,
+      "aiRestored": false
+    },
+    "assets/59a224995e8c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/af6af0f7de32767dbcf2ac85df4c6ce6.jpg",
+      "originalWidth": 1200,
+      "originalHeight": 800,
+      "previousWidth": 1200,
+      "outputWidth": 1200,
+      "outputHeight": 800,
+      "aiRestored": false
+    },
+    "assets/b48c32afba6d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/d401a457017b968c75382e7a80ca5e50.jpeg",
+      "originalWidth": 1200,
+      "originalHeight": 801,
+      "previousWidth": 1200,
+      "outputWidth": 1200,
+      "outputHeight": 801,
+      "aiRestored": false
+    },
+    "assets/2811cf3a5916.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/f196c8f41d86d1bf1.jpg",
+      "originalWidth": 1919,
+      "originalHeight": 1280,
+      "previousWidth": 1600,
+      "outputWidth": 1919,
+      "outputHeight": 1280,
+      "aiRestored": false
+    },
+    "assets/5084da5c4422.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/maxresdefault.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 720,
+      "previousWidth": 1280,
+      "outputWidth": 1280,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/2af6912450f1.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/phoca_thumb_l_kvest-na-prirode-dlya-detej-02.jpg",
+      "originalWidth": 1000,
+      "originalHeight": 562,
+      "previousWidth": 1000,
+      "outputWidth": 1000,
+      "outputHeight": 562,
+      "aiRestored": false
+    },
+    "assets/a572b06fa699.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/portrait-of-mother-and-little-girl-shaping-clay-together-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1707,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1707,
+      "aiRestored": false
+    },
+    "assets/b85fde7d0347.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/reyting_detskikh_5-1.jpg",
+      "originalWidth": 1684,
+      "originalHeight": 1123,
+      "previousWidth": 1600,
+      "outputWidth": 1684,
+      "outputHeight": 1123,
+      "aiRestored": false
+    },
+    "assets/6bb384b7fcf1.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_7125-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/de3ac5bc2354.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_7135-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1923,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1923,
+      "aiRestored": false
+    },
+    "assets/3873875914ae.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_7140-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/201b0a81106b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_7141-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/97ded2432279.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_7147-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/df2a2a68570f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9652-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/f5175c0c4a82.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9651-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/d20ca777a9ad.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9660-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/b4dcce4a77a3.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/kkyfe7q7y_g.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/2e6aaccdf5d7.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9690-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/2b23fef01d9b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/kqtw-qbmtke.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/fc5e5e4de130.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/pg1f39r3ue4.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/cf04db083686.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/kxvynmsozwy.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/59e2997d13d3.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/fcyb4zvw-ky.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/89f7a4731496.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/fyvmabvgz_u.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/0de11a031cba.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/skfh9o5feou.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/0b7d508e92de.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/rg05mq_bjqi.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/3db9be515e94.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0932-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/c60fc40d336f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0933-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/df663dd46a1e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0931-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/60429af9b31a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0941-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/53bdfe0025f0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0940-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/bec929686252.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0937-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/cf476c622ba3.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_3712-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/0810648b01c5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0942-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/00f7e8f16658.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_5857-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/0d3b6edf669b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_5858-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/fcb7e685416e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_8802-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/c43948c54a7e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_5860-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/31ce8380ff4d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_8804-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/01adcd6d2465.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_8808-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/30f429b7bef4.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_8809-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/a3d70fc0e3db.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_934-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/08a270b0f6b6.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9392-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/b46499ebd4af.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9673-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/f154858ef089.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9693-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/fe34c4e2f5bb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9705-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/29b08b2a4333.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9703-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/ac4b3abf0cb0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9706-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/bb0b59a0d3cb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9712-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/50d33b5f182b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9650-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/6555af11b5d9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_1103-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/a609f13c59cb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9790-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/92a4e1395c37.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/002-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/f1e337124a59.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9793-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/80e207d4aa8d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/003-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/8e41b1ce6a04.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/004-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/8a42f90330e0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/005-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/4fee6ebab9f1.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/006-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/0671664506ce.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/007-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/b67b17ce6446.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/008-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/f345db86667e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/009-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/b74ac9619220.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/010-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/b303476ec492.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/011-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/58fe8b2c8144.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/012.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/4761ec3fae09.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/013.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/f7b53735a1f3.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/014.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/f167bcb94bf9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/0ea61b20-8553-4650-bf5e-61c3041ef335.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 810,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 810,
+      "aiRestored": false
+    },
+    "assets/ac1eebec9667.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/3100d802-f5e9-4fde-b791-9403e1ab2df0.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 810,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 810,
+      "aiRestored": false
+    },
+    "assets/f0f38fee158f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/5bef8930-bdf6-4057-a23e-6e610e427672.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 810,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 810,
+      "aiRestored": false
+    },
+    "assets/57d8c09568c3.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/ba293fdd-2890-443b-a600-f30e02711bb5.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 810,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 810,
+      "aiRestored": false
+    },
+    "assets/00ae342f591e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/b7e2e7b7-0b33-4f5b-b228-b09008a48329.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 810,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 810,
+      "aiRestored": false
+    },
+    "assets/5cfa3c61fcbb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/e36bb89e-fb33-4b85-977e-136c8d9ac45c.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 1440,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 1440,
+      "aiRestored": false
+    },
+    "assets/64d37def1e74.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_0409-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/031de9b14b2b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_9155-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/2a839e6a833b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_0998-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/bf88dfeaae17.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_9160-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/47664bcabb06.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/001-3.jpg",
+      "originalWidth": 779,
+      "originalHeight": 600,
+      "previousWidth": 779,
+      "outputWidth": 779,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/5bc2c5a2787d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_9162-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/2d27ba1e79cb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/005-3.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/e3b9fb382d55.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/006-3.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/90217e104f05.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/007-3.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/358986bdb7d9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/008-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/e8d640d3044e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/009-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/469ca626a870.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/010-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/a115f974b2c1.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/011-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/4ec6375da102.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/012-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/9a9ed71e186e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/013-1.jpg",
+      "originalWidth": 794,
+      "originalHeight": 600,
+      "previousWidth": 794,
+      "outputWidth": 794,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/11ca896d5c70.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/014-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/01e2c5aa51ac.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/015.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/e86377f39f19.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_2725.jpg",
+      "originalWidth": 955,
+      "originalHeight": 955,
+      "previousWidth": 955,
+      "outputWidth": 955,
+      "outputHeight": 955,
+      "aiRestored": false
+    },
+    "assets/bb7ead7e824f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_6360-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/a0d547430cd8.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_6369-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/122759950ce5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_9595-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/0c3cf793085c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_9765-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/d4eb92065415.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_9766-1-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/27f8af5e5e0e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_9773-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/2f4a1b345b47.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_9770-1-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/6b60e39a349d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/54bd7285-2635-4440-aa89-1759e3849fec.jpg",
+      "originalWidth": 828,
+      "originalHeight": 1104,
+      "previousWidth": 828,
+      "outputWidth": 828,
+      "outputHeight": 1104,
+      "aiRestored": false
+    },
+    "assets/0ec6179f2d5d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/img_9774-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/27d18544deff.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/7222015f-1194-4fa2-bb49-e2112bfa3ccd.jpg",
+      "originalWidth": 828,
+      "originalHeight": 1104,
+      "previousWidth": 828,
+      "outputWidth": 828,
+      "outputHeight": 1104,
+      "aiRestored": false
+    },
+    "assets/e2ed8a9dc83a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/86fda48a-64bd-44ac-8793-38d00a32a4c0.jpg",
+      "originalWidth": 600,
+      "originalHeight": 800,
+      "previousWidth": 600,
+      "outputWidth": 600,
+      "outputHeight": 800,
+      "aiRestored": false
+    },
+    "assets/74953a0c2783.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/809b1d96-ff24-4973-8f39-d993a1bbef1b.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/02ea35551fab.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/a801742e-b0b5-40b9-8c40-c1500222d0f2.jpg",
+      "originalWidth": 750,
+      "originalHeight": 1000,
+      "previousWidth": 750,
+      "outputWidth": 750,
+      "outputHeight": 1000,
+      "aiRestored": false
+    },
+    "assets/64c97354db18.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/b2f48aac-9603-4c24-883c-841eb7946f63.jpg",
+      "originalWidth": 640,
+      "originalHeight": 480,
+      "previousWidth": 640,
+      "outputWidth": 640,
+      "outputHeight": 480,
+      "aiRestored": false
+    },
+    "assets/48553213a2ab.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/f86853f4-995e-4a92-8477-57d2409ebf5e.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/8ea368105fa2.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0127-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/c39f122516fc.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_4584-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/7a482a54be8d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_4655-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/9ef98aa4ecbe.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_5971-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/0938502a378c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_5978-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/f804d539a444.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6246-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/0821b2e37e43.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6248-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/4335a78d58cb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6262-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/f4414136c42a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6283-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/fbff2adc26cb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6282-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/15f374ead195.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6285-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/40b91ebd112e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6286-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/9554366d7bdd.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6291-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/4717866e686f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6290-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/d91470983244.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6828-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/5e3f11df5d87.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6821-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/ab418ae180d0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6831-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/ebeec4506c75.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6834-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/af243e16f117.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6838-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/4754d2d98ccd.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6854-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/7da5b76c2526.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6855-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/931c5a296caf.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_8499-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/4183715635f9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6856-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/0fae121928d5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_8502-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/91f92d96013a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_8739-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/f32db2f418b2.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2024/03/023.png",
+      "originalWidth": 357,
+      "originalHeight": 361,
+      "previousWidth": 357,
+      "outputWidth": 357,
+      "outputHeight": 361,
+      "aiRestored": false
+    },
+    "assets/e945f21e4bae.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9696-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/26e377a0f461.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6771.jpg",
+      "originalWidth": 1008,
+      "originalHeight": 756,
+      "previousWidth": 1008,
+      "outputWidth": 1008,
+      "outputHeight": 756,
+      "aiRestored": false
+    },
+    "assets/38f752dff322.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6766.jpg",
+      "originalWidth": 756,
+      "originalHeight": 1008,
+      "previousWidth": 756,
+      "outputWidth": 756,
+      "outputHeight": 1008,
+      "aiRestored": false
+    },
+    "assets/5bb8bdebacf2.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6772.jpg",
+      "originalWidth": 756,
+      "originalHeight": 1008,
+      "previousWidth": 756,
+      "outputWidth": 756,
+      "outputHeight": 1008,
+      "aiRestored": false
+    },
+    "assets/f6496de270cd.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6773.jpg",
+      "originalWidth": 1008,
+      "originalHeight": 756,
+      "previousWidth": 1008,
+      "outputWidth": 1008,
+      "outputHeight": 756,
+      "aiRestored": false
+    },
+    "assets/619708c4aee2.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6812.jpg",
+      "originalWidth": 756,
+      "originalHeight": 1008,
+      "previousWidth": 756,
+      "outputWidth": 756,
+      "outputHeight": 1008,
+      "aiRestored": false
+    },
+    "assets/591dd99c8979.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_6814.jpg",
+      "originalWidth": 756,
+      "originalHeight": 1008,
+      "previousWidth": 756,
+      "outputWidth": 756,
+      "outputHeight": 1008,
+      "aiRestored": false
+    },
+    "assets/a8abd21a3b49.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0003.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 1440,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 1440,
+      "aiRestored": false
+    },
+    "assets/117cb3b4470c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0002.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 1440,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 1440,
+      "aiRestored": false
+    },
+    "assets/f1e2b96e69cb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0001.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 1440,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 1440,
+      "aiRestored": false
+    },
+    "assets/a3ac22eb4fc4.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_8140.jpg",
+      "originalWidth": 1200,
+      "originalHeight": 1600,
+      "previousWidth": 1200,
+      "outputWidth": 1200,
+      "outputHeight": 1600,
+      "aiRestored": false
+    },
+    "assets/9c619ee51064.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_0435-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/70543c283712.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_3980-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/ebf7460b50db.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9621-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/1238585c5582.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9622-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/43713b59b6ad.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9794-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/e4582f45ad4a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9796-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/4fc96883167f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9797-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/53d4be539286.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9799-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/3f6f4650958a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9800-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/80174c8572bf.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9801-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/e5a47ffc1840.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9803-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/4b6e5fc34578.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9804-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/847ff6c5c26c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9998.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 1440,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 1440,
+      "aiRestored": false
+    },
+    "assets/0ca1cd8d5a43.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9808-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/ef3466437a5a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9807-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/4e314de19566.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/003-2.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/0c09c7cec62a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/10/img_9999.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 1440,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 1440,
+      "aiRestored": false
+    },
+    "assets/121f449dfc93.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/2-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 589,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 589,
+      "aiRestored": false
+    },
+    "assets/c09a9e5f4a5a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/3-1.jpg",
+      "originalWidth": 781,
+      "originalHeight": 600,
+      "previousWidth": 781,
+      "outputWidth": 781,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/37b459c044d2.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/7-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 531,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 531,
+      "aiRestored": false
+    },
+    "assets/aa47dc25d423.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/6-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 531,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 531,
+      "aiRestored": false
+    },
+    "assets/9107487b9542.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/8-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 531,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 531,
+      "aiRestored": false
+    },
+    "assets/f4cdb17ff7c8.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/9-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 535,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 535,
+      "aiRestored": false
+    },
+    "assets/89c80810e84f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/001-2.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/dd2a976df6c0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/002-2.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/07269b23e192.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/004-2.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/5dbf493e9610.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/005-2.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/033a1f00411d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/007-1.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/b82014becc97.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/008-1.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/4adc5ae1fb9f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/010-1.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/2d7113699172.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/011-1.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/612591e34c10.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/012-1.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/fd01a70b4710.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/014.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/da7c21c5e4a0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/medium-shot-girl-painting-at-home.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1333,
+      "previousWidth": 1600,
+      "outputWidth": 2000,
+      "outputHeight": 1333,
+      "aiRestored": false
+    },
+    "assets/e587ae193ef7.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/013.jpg",
+      "originalWidth": 328,
+      "originalHeight": 328,
+      "previousWidth": 328,
+      "outputWidth": 328,
+      "outputHeight": 328,
+      "aiRestored": false
+    },
+    "assets/7923737f88b4.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/0.jpg",
+      "originalWidth": 1500,
+      "originalHeight": 1000,
+      "previousWidth": 1500,
+      "outputWidth": 1500,
+      "outputHeight": 1000,
+      "aiRestored": false
+    },
+    "assets/5c9a0ce8d448.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/dgpqwlhueaer2zs.jpg",
+      "originalWidth": 1200,
+      "originalHeight": 905,
+      "previousWidth": 1200,
+      "outputWidth": 1200,
+      "outputHeight": 905,
+      "aiRestored": false
+    },
+    "assets/b0eef3e36507.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/d537c242c012193b87b464c305c2673c.jpeg",
+      "originalWidth": 700,
+      "originalHeight": 1030,
+      "previousWidth": 700,
+      "outputWidth": 700,
+      "outputHeight": 1030,
+      "aiRestored": false
+    },
+    "assets/e020b5172b4c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/ecac29c6432104845f16a7d371b4cc10.jpeg",
+      "originalWidth": 1280,
+      "originalHeight": 849,
+      "previousWidth": 1280,
+      "outputWidth": 1280,
+      "outputHeight": 849,
+      "aiRestored": false
+    },
+    "assets/302014261f06.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/0e1d42888ab6021f929b333b5b19deef.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 853,
+      "previousWidth": 1280,
+      "outputWidth": 1280,
+      "outputHeight": 853,
+      "aiRestored": false
+    },
+    "assets/2a5332512a3a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/gettyimages-524022562.jpg",
+      "originalWidth": 2121,
+      "originalHeight": 1414,
+      "previousWidth": 1600,
+      "outputWidth": 2121,
+      "outputHeight": 1414,
+      "aiRestored": false
+    },
+    "assets/036cf20bc831.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/iyul-1-of-41.jpg",
+      "originalWidth": 1500,
+      "originalHeight": 1000,
+      "previousWidth": 1500,
+      "outputWidth": 1500,
+      "outputHeight": 1000,
+      "aiRestored": false
+    },
+    "assets/1a8b65733ce6.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/48b1b4c0b7610cbd19a3b7935c37bc48.jpeg",
+      "originalWidth": 1280,
+      "originalHeight": 720,
+      "previousWidth": 1280,
+      "outputWidth": 1280,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/49d7e19f35b3.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/16197705698010.jpg",
+      "originalWidth": 1360,
+      "originalHeight": 907,
+      "previousWidth": 1360,
+      "outputWidth": 1360,
+      "outputHeight": 907,
+      "aiRestored": false
+    },
+    "assets/ad61a02e98bf.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/85b6f89b41cae26786ac72365fff771b.jpg",
+      "originalWidth": 1200,
+      "originalHeight": 799,
+      "previousWidth": 1200,
+      "outputWidth": 1200,
+      "outputHeight": 799,
+      "aiRestored": false
+    },
+    "assets/6f6a72ce573f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/ca771a75fcdcf8cdb3552b8ef4b5bc2b.jpeg",
+      "originalWidth": 2508,
+      "originalHeight": 1672,
+      "previousWidth": 1600,
+      "outputWidth": 2508,
+      "outputHeight": 1672,
+      "aiRestored": false
+    },
+    "assets/37330891efb5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/professionalny-prazdniki.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 1279,
+      "previousWidth": 1600,
+      "outputWidth": 1920,
+      "outputHeight": 1279,
+      "aiRestored": false
+    },
+    "assets/d0a96bef28e2.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/kayak1-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1691,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1691,
+      "aiRestored": false
+    },
+    "assets/475544bdcd82.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/l1013849.jpg",
+      "originalWidth": 1143,
+      "originalHeight": 675,
+      "previousWidth": 1143,
+      "outputWidth": 1143,
+      "outputHeight": 675,
+      "aiRestored": false
+    },
+    "assets/9d64ba5d8e33.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/original-1.jpg",
+      "originalWidth": 2400,
+      "originalHeight": 1800,
+      "previousWidth": 1600,
+      "outputWidth": 2400,
+      "outputHeight": 1800,
+      "aiRestored": false
+    },
+    "assets/331bbe2338ab.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/razvan-chisu-623786-unsplash-1-e1548680930848.jpg",
+      "originalWidth": 2400,
+      "originalHeight": 1600,
+      "previousWidth": 1600,
+      "outputWidth": 2400,
+      "outputHeight": 1600,
+      "aiRestored": false
+    },
+    "assets/36fc703da1e0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/sport-boat-paddle-vehicle-kayak-sports-equipment-boating-kayaking-watercraft-canoeing-sea-kayak-watercraft-rowing-888000.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 1280,
+      "previousWidth": 1600,
+      "outputWidth": 1920,
+      "outputHeight": 1280,
+      "aiRestored": false
+    },
+    "assets/88f076cb8b81.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_1408.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/3ef4d3d09665.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/p1010143.jpg",
+      "originalWidth": 2538,
+      "originalHeight": 1903,
+      "previousWidth": 1600,
+      "outputWidth": 2538,
+      "outputHeight": 1903,
+      "aiRestored": false
+    },
+    "assets/e4f4689c6c98.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_3116-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/46582b3870f5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/beautiful-woman-painting-with-acrylics-on-canvas.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1331,
+      "previousWidth": 1600,
+      "outputWidth": 2000,
+      "outputHeight": 1331,
+      "aiRestored": false
+    },
+    "assets/e1dcd43ee2a5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/close-up-hand-holding-brush-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 2560,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/1299b95670ec.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/close-up-pottery-tools-arrangement.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1333,
+      "previousWidth": 1600,
+      "outputWidth": 2000,
+      "outputHeight": 1333,
+      "aiRestored": false
+    },
+    "assets/3c1d592c797d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/creative-woman-making-a-clay-pot-in-her-workshop.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1331,
+      "previousWidth": 1600,
+      "outputWidth": 2000,
+      "outputHeight": 1331,
+      "aiRestored": false
+    },
+    "assets/3b4fded2b8ad.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/woman-working-in-workshop-measuring.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1241,
+      "previousWidth": 1600,
+      "outputWidth": 2000,
+      "outputHeight": 1241,
+      "aiRestored": false
+    },
+    "assets/df1554143235.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/young-blonde-woman-painting-with-acrylics.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1331,
+      "previousWidth": 1600,
+      "outputWidth": 2000,
+      "outputHeight": 1331,
+      "aiRestored": false
+    },
+    "assets/bbb568f50663.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/dsc_0317.jpg",
+      "originalWidth": 2144,
+      "originalHeight": 1424,
+      "previousWidth": 1600,
+      "outputWidth": 2144,
+      "outputHeight": 1424,
+      "aiRestored": false
+    },
+    "assets/f380198dc549.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/img_2346.jpg",
+      "originalWidth": 700,
+      "originalHeight": 467,
+      "previousWidth": 700,
+      "outputWidth": 700,
+      "outputHeight": 467,
+      "aiRestored": false
+    },
+    "assets/92c21661b248.webp": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/1063128933_w640_h640_detskij-vypusknoj-na.webp",
+      "originalWidth": 1280,
+      "originalHeight": 960,
+      "previousWidth": 1280,
+      "outputWidth": 1280,
+      "outputHeight": 960,
+      "aiRestored": false
+    },
+    "assets/8fd29ab04fbb.webp": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/voda-e1592635747879.webp",
+      "originalWidth": 750,
+      "originalHeight": 414,
+      "previousWidth": 750,
+      "outputWidth": 750,
+      "outputHeight": 414,
+      "aiRestored": false
+    },
+    "assets/716f0bc79a39.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/stv9489-scaled-1.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1707,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1707,
+      "aiRestored": false
+    },
+    "assets/b4b968bf9970.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/b9a5ca057b2a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/10.jpg",
+      "originalWidth": 800,
+      "originalHeight": 533,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 533,
+      "aiRestored": false
+    },
+    "assets/1c54c9afeec9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/6.jpg",
+      "originalWidth": 800,
+      "originalHeight": 533,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 533,
+      "aiRestored": false
+    },
+    "assets/6b39057f8e6a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/7.jpg",
+      "originalWidth": 800,
+      "originalHeight": 533,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 533,
+      "aiRestored": false
+    },
+    "assets/69d4baf8cd3c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/9.jpg",
+      "originalWidth": 800,
+      "originalHeight": 532,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 532,
+      "aiRestored": false
+    },
+    "assets/85a0939f249d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/8.jpg",
+      "originalWidth": 800,
+      "originalHeight": 533,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 533,
+      "aiRestored": false
+    },
+    "assets/bd04ea8ea61b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/8-3-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1707,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1707,
+      "aiRestored": false
+    },
+    "assets/d84948d95d38.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/maxresdefault-1.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 720,
+      "previousWidth": 1280,
+      "outputWidth": 1280,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/128bbf6d2d86.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/mg_1844.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 1280,
+      "previousWidth": 1600,
+      "outputWidth": 1920,
+      "outputHeight": 1280,
+      "aiRestored": false
+    },
+    "assets/b857ec4f224b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/tripguide.ru_96539big.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1482,
+      "previousWidth": 1600,
+      "outputWidth": 2000,
+      "outputHeight": 1482,
+      "aiRestored": false
+    },
+    "assets/ea443d349fcb.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/5-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/3afb9737fb1b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/10-1.jpg",
+      "originalWidth": 770,
+      "originalHeight": 600,
+      "previousWidth": 770,
+      "outputWidth": 770,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/d18d00011ba9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/7-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/63186f344d63.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/8-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/17522e2df0bd.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/9-2.jpg",
+      "originalWidth": 800,
+      "originalHeight": 599,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 599,
+      "aiRestored": false
+    },
+    "assets/5ddba006d714.webp": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/300bb6004a3f.webp",
+      "originalWidth": 960,
+      "originalHeight": 640,
+      "previousWidth": 960,
+      "outputWidth": 960,
+      "outputHeight": 640,
+      "aiRestored": false
+    },
+    "assets/d5868273fe4a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/8r9t0196-s.jpg",
+      "originalWidth": 1500,
+      "originalHeight": 1000,
+      "previousWidth": 1500,
+      "outputWidth": 1500,
+      "outputHeight": 1000,
+      "aiRestored": false
+    },
+    "assets/375212c3feec.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/1325253231_gaflinger6.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1333,
+      "previousWidth": 1600,
+      "outputWidth": 2000,
+      "outputHeight": 1333,
+      "aiRestored": false
+    },
+    "assets/48dfa384a13f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/ab777da2fee8b15abdced62c8ccc0b15-scaled.jpeg",
+      "originalWidth": 2560,
+      "originalHeight": 1706,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1706,
+      "aiRestored": false
+    },
+    "assets/af5c75c35369.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/horse-lessons-and-training-1.jpg",
+      "originalWidth": 1500,
+      "originalHeight": 1000,
+      "previousWidth": 1500,
+      "outputWidth": 1500,
+      "outputHeight": 1000,
+      "aiRestored": false
+    },
+    "assets/781a68d3dfab.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/sdf-5.jpg",
+      "originalWidth": 2120,
+      "originalHeight": 1217,
+      "previousWidth": 1600,
+      "outputWidth": 2120,
+      "outputHeight": 1217,
+      "aiRestored": false
+    },
+    "assets/080e825ba93c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/4-4-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1439,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1439,
+      "aiRestored": false
+    },
+    "assets/f3dbb78359d5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/4-20.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 837,
+      "previousWidth": 1280,
+      "outputWidth": 1280,
+      "outputHeight": 837,
+      "aiRestored": false
+    },
+    "assets/a82c7a46e9d8.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/sov0.jpg",
+      "originalWidth": 1440,
+      "originalHeight": 960,
+      "previousWidth": 1440,
+      "outputWidth": 1440,
+      "outputHeight": 960,
+      "aiRestored": false
+    },
+    "assets/021ddbd5fbe6.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/how-to-buy-a-bike-that-fits-a-woman.jpg",
+      "originalWidth": 1300,
+      "originalHeight": 867,
+      "previousWidth": 1300,
+      "outputWidth": 1300,
+      "outputHeight": 867,
+      "aiRestored": false
+    },
+    "assets/85116a299a96.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/velosiped-deti-paren-malchik.jpg",
+      "originalWidth": 2290,
+      "originalHeight": 1526,
+      "previousWidth": 1600,
+      "outputWidth": 2290,
+      "outputHeight": 1526,
+      "aiRestored": false
+    },
+    "assets/2c781f79e8a1.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/1615259474_23-p-plate-na-vecher-vstrechi-vipusknikov-obraz-25.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 1280,
+      "previousWidth": 1600,
+      "outputWidth": 1920,
+      "outputHeight": 1280,
+      "aiRestored": false
+    },
+    "assets/73c47491def1.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/1642427935_46-o-tendencii-com-p-makiyazh-dlya-vipusknogo-bala-foto-48.jpg",
+      "originalWidth": 1600,
+      "originalHeight": 1067,
+      "previousWidth": 1600,
+      "outputWidth": 1600,
+      "outputHeight": 1067,
+      "aiRestored": false
+    },
+    "assets/7de8e4e126af.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/d5872ceba456ea502.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 1279,
+      "previousWidth": 1600,
+      "outputWidth": 1920,
+      "outputHeight": 1279,
+      "aiRestored": false
+    },
+    "assets/9dd706f687c5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/1646803213_51-klublady-ru-p-obraz-vipusknoi-v-9-klasse-foto-58.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1333,
+      "previousWidth": 1600,
+      "outputWidth": 2000,
+      "outputHeight": 1333,
+      "aiRestored": false
+    },
+    "assets/2294fdd35640.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/1-3.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/88315f63e287.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/2-3.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/e211ec90aab8.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/28e3eed68f329524b91783bdcb4ae12e.jpg",
+      "originalWidth": 1600,
+      "originalHeight": 1065,
+      "previousWidth": 1600,
+      "outputWidth": 1600,
+      "outputHeight": 1065,
+      "aiRestored": false
+    },
+    "assets/aa94c5fbfda6.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/3-3.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/5adaca632ace.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/8gpjp-skg_e.jpg",
+      "originalWidth": 520,
+      "originalHeight": 345,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 345,
+      "aiRestored": false
+    },
+    "assets/a4d2c2ad51b0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/5-3.jpg",
+      "originalWidth": 800,
+      "originalHeight": 600,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 600,
+      "aiRestored": false
+    },
+    "assets/631091a5c330.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/h1_ryu8dig.jpg",
+      "originalWidth": 520,
+      "originalHeight": 346,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 346,
+      "aiRestored": false
+    },
+    "assets/ae4054546bef.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/lrgrq-mx6as.jpg",
+      "originalWidth": 520,
+      "originalHeight": 345,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 345,
+      "aiRestored": false
+    },
+    "assets/4dd4004d5849.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/zp5bx8swhp4.jpg",
+      "originalWidth": 520,
+      "originalHeight": 345,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 345,
+      "aiRestored": false
+    },
+    "assets/ec28a5615600.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/cavnz4ew9ou.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/b9e145d31581.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/t0rkyrsujde.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/c65b55d62a0e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/wurphcpxn7s.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/934bf7816446.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/tpbvnleiu-c.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/ffd89416e055.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/1.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/9c9f2e2a5333.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_8026-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/53e5e51a7f3c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_8078-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/200e38bfdd01.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/2.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/6db0723e819f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/3.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/0be3a4df9466.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/4.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/f7603e899de7.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/1-1.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/7e77f47f20d5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/2-1.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/e13d0bb13e35.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/5.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/5626432347af.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/3-1.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/6c04b5188fd6.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/4-1.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/1360f76856b7.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/5-1.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/789fe6b4e7e3.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/5rj5n-sgjgs.jpg",
+      "originalWidth": 520,
+      "originalHeight": 390,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 390,
+      "aiRestored": false
+    },
+    "assets/8ce7b0e0c598.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/6.jpg",
+      "originalWidth": 1024,
+      "originalHeight": 768,
+      "previousWidth": 1024,
+      "outputWidth": 1024,
+      "outputHeight": 768,
+      "aiRestored": false
+    },
+    "assets/34271315e288.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/asojndvmenq.jpg",
+      "originalWidth": 520,
+      "originalHeight": 390,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 390,
+      "aiRestored": false
+    },
+    "assets/6eac1a228f3b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/d-bydcewsmw.jpg",
+      "originalWidth": 520,
+      "originalHeight": 390,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 390,
+      "aiRestored": false
+    },
+    "assets/ba8f008f7690.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/sshi0zxgzso.jpg",
+      "originalWidth": 520,
+      "originalHeight": 390,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 390,
+      "aiRestored": false
+    },
+    "assets/b2ff43d3bc9c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/55qukgbts1g.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/cb647e9363f9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/p5pxwvixipq.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/835d0de294b0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/tee_m8wqhgk.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/a8776271f206.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/shti3v13cj0.jpg",
+      "originalWidth": 520,
+      "originalHeight": 693,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 693,
+      "aiRestored": false
+    },
+    "assets/d32875e2dd1f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/002.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 720,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/898efb878a29.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/003.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 720,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/b419fcdc204a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/004.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 675,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 675,
+      "aiRestored": false
+    },
+    "assets/4db1ea264254.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/005.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 720,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/8edc01293dd3.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/006.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 720,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/03b52d5a82f5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/007.jpg",
+      "originalWidth": 853,
+      "originalHeight": 1280,
+      "previousWidth": 853,
+      "outputWidth": 853,
+      "outputHeight": 1280,
+      "aiRestored": false
+    },
+    "assets/0548951a925f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/008.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 720,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/752504dbff7b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/009.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 720,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/df85f0c37338.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/010.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 720,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/72e5301f32ce.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/011.jpg",
+      "originalWidth": 800,
+      "originalHeight": 1280,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 1280,
+      "aiRestored": false
+    },
+    "assets/0927cfa81faf.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/11/img_9481-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/df2022d65c4b.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/002.jpeg",
+      "originalWidth": 1000,
+      "originalHeight": 750,
+      "previousWidth": 1000,
+      "outputWidth": 1000,
+      "outputHeight": 750,
+      "aiRestored": false
+    },
+    "assets/e7358fa919cd.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/003.jpeg",
+      "originalWidth": 1000,
+      "originalHeight": 750,
+      "previousWidth": 1000,
+      "outputWidth": 1000,
+      "outputHeight": 750,
+      "aiRestored": false
+    },
+    "assets/b9a9b57d70c7.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/004.jpeg",
+      "originalWidth": 1000,
+      "originalHeight": 750,
+      "previousWidth": 1000,
+      "outputWidth": 1000,
+      "outputHeight": 750,
+      "aiRestored": false
+    },
+    "assets/6a1b5c2ed53d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/005.jpeg",
+      "originalWidth": 1000,
+      "originalHeight": 750,
+      "previousWidth": 1000,
+      "outputWidth": 1000,
+      "outputHeight": 750,
+      "aiRestored": false
+    },
+    "assets/d3452b4630b5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/006.jpeg",
+      "originalWidth": 1000,
+      "originalHeight": 750,
+      "previousWidth": 1000,
+      "outputWidth": 1000,
+      "outputHeight": 750,
+      "aiRestored": false
+    },
+    "assets/4dcff3c0644d.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/007.jpeg",
+      "originalWidth": 1000,
+      "originalHeight": 750,
+      "previousWidth": 1000,
+      "outputWidth": 1000,
+      "outputHeight": 750,
+      "aiRestored": false
+    },
+    "assets/f7218305f99c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2023/11/img_6606-scaled.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 2560,
+      "previousWidth": 1200,
+      "outputWidth": 1920,
+      "outputHeight": 2560,
+      "aiRestored": false
+    },
+    "assets/9babc2487729.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2023/11/img_6620-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/eb6669cc83fc.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2023/11/img_6609-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/76ee65359eda.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2023/11/img_6650-scaled.jpg",
+      "originalWidth": 2560,
+      "originalHeight": 1920,
+      "previousWidth": 1600,
+      "outputWidth": 2560,
+      "outputHeight": 1920,
+      "aiRestored": false
+    },
+    "assets/80d7f4f19539.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/8cbmv4wnbxu.jpg",
+      "originalWidth": 520,
+      "originalHeight": 344,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 344,
+      "aiRestored": false
+    },
+    "assets/7827d877cdd4.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/andkfmzgz-o.jpg",
+      "originalWidth": 520,
+      "originalHeight": 390,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 390,
+      "aiRestored": false
+    },
+    "assets/a8bd8316a9d0.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/gyltbcviup8.jpg",
+      "originalWidth": 520,
+      "originalHeight": 341,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 341,
+      "aiRestored": false
+    },
+    "assets/af9074668036.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/nd4yya6wvka.jpg",
+      "originalWidth": 520,
+      "originalHeight": 344,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 344,
+      "aiRestored": false
+    },
+    "assets/475b6f84757f.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/002-1.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 720,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 720,
+      "aiRestored": false
+    },
+    "assets/0ac4c472d131.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/003-1.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 675,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 675,
+      "aiRestored": false
+    },
+    "assets/1831ae12c8be.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/004-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 1280,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 1280,
+      "aiRestored": false
+    },
+    "assets/2dbbe9aa3db4.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/005-1.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 675,
+      "previousWidth": 1080,
+      "outputWidth": 1080,
+      "outputHeight": 675,
+      "aiRestored": false
+    },
+    "assets/fe66233a6a8c.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/006-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 1280,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 1280,
+      "aiRestored": false
+    },
+    "assets/1d4d82ca242e.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/09/007-1.jpg",
+      "originalWidth": 800,
+      "originalHeight": 1280,
+      "previousWidth": 800,
+      "outputWidth": 800,
+      "outputHeight": 1280,
+      "aiRestored": false
+    },
+    "assets/983772ad0475.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/atd1v-ebjka.jpg",
+      "originalWidth": 520,
+      "originalHeight": 780,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 780,
+      "aiRestored": false
+    },
+    "assets/c0a6275a3972.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/r2e3hhlbz74.jpg",
+      "originalWidth": 520,
+      "originalHeight": 346,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 346,
+      "aiRestored": false
+    },
+    "assets/00212cc622b8.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/v5kgnnrfga4.jpg",
+      "originalWidth": 520,
+      "originalHeight": 346,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 346,
+      "aiRestored": false
+    },
+    "assets/a64306df4c01.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2023/11/img_1488.jpg",
+      "originalWidth": 1916,
+      "originalHeight": 1078,
+      "previousWidth": 1600,
+      "outputWidth": 1916,
+      "outputHeight": 1078,
+      "aiRestored": false
+    },
+    "assets/25d510dd80a5.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/72bxo2vquu4.jpg",
+      "originalWidth": 520,
+      "originalHeight": 346,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 346,
+      "aiRestored": false
+    },
+    "assets/1efa30138899.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/08/y05l-ovzqve.jpg",
+      "originalWidth": 520,
+      "originalHeight": 780,
+      "previousWidth": 520,
+      "outputWidth": 520,
+      "outputHeight": 780,
+      "aiRestored": false
+    },
+    "assets/850ae6ebde98.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/image-55.png",
+      "originalWidth": 3537,
+      "originalHeight": 1962,
+      "previousWidth": 1,
+      "outputWidth": 3537,
+      "outputHeight": 1962,
+      "aiRestored": false
+    },
+    "assets/67649f6cf06a.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/image-56.png",
+      "originalWidth": 837,
+      "originalHeight": 528,
+      "previousWidth": 837,
+      "outputWidth": 837,
+      "outputHeight": 528,
+      "aiRestored": false
+    },
+    "assets/9f8d9a476258.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/image-57.png",
+      "originalWidth": 901,
+      "originalHeight": 628,
+      "previousWidth": 901,
+      "outputWidth": 901,
+      "outputHeight": 628,
+      "aiRestored": false
+    },
+    "assets/fefc4084de63.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/image-58.png",
+      "originalWidth": 837,
+      "originalHeight": 528,
+      "previousWidth": 837,
+      "outputWidth": 837,
+      "outputHeight": 528,
+      "aiRestored": false
+    },
+    "assets/aa3dfc592de9.jpg": {
+      "source": "https://tg63.ru/wp-content/uploads/2022/07/image-59.png",
+      "originalWidth": 837,
+      "originalHeight": 528,
+      "previousWidth": 837,
+      "outputWidth": 837,
+      "outputHeight": 528,
+      "aiRestored": false
+    }
+  }
+}

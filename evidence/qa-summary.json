@@ -1,0 +1,163 @@
+{
+  "checkedAt": "2026-11-06T14:57:02.982Z",
+  "status": "passed after targeted corrections",
+  "fullRun": {
+    "pages": 71,
+    "checks": 477,
+    "passedInitially": 476,
+    "internalLinks": 227
+  },
+  "resolvedFailures": [
+    {
+      "name": "closing video removes player",
+      "verifiedBy": "focused-qa-results.json: closing video with Escape/button/backdrop removes player"
+    }
+  ],
+  "focusedRun": {
+    "passed": 38,
+    "failed": []
+  },
+  "finalReleaseChecks": [
+    {
+      "name": "supporting text contrast /razmeshchenie/",
+      "passed": true,
+      "contrast": 5.7111934552137065
+    },
+    {
+      "name": "supporting text contrast /reviews/",
+      "passed": true,
+      "contrast": 5.7111934552137065
+    },
+    {
+      "name": "supporting text contrast /kontakty/",
+      "passed": true,
+      "contrast": 5.7111934552137065
+    },
+    {
+      "name": "tariff layout 360 /letnie-verany/",
+      "passed": true
+    },
+    {
+      "name": "tariff layout 360 /letnie-verany/lesnaya/",
+      "passed": true
+    },
+    {
+      "name": "veranda minimum and per-guest price 360",
+      "passed": true
+    },
+    {
+      "name": "party size preserved for venue enquiry 360",
+      "passed": true
+    },
+    {
+      "name": "tariff layout 360 /bani/banya-provans/",
+      "passed": true
+    },
+    {
+      "name": "bath tariff comes from hourly table 360",
+      "passed": true
+    },
+    {
+      "name": "tariff layout 360 /razmeshchenie/kottedzhi/banketnyj-na-18-chel/",
+      "passed": true
+    },
+    {
+      "name": "cottage tariff matches published table 360",
+      "passed": true
+    },
+    {
+      "name": "tariff layout 1440 /letnie-verany/",
+      "passed": true
+    },
+    {
+      "name": "tariff layout 1440 /letnie-verany/lesnaya/",
+      "passed": true
+    },
+    {
+      "name": "veranda minimum and per-guest price 1440",
+      "passed": true
+    },
+    {
+      "name": "party size preserved for venue enquiry 1440",
+      "passed": true
+    },
+    {
+      "name": "tariff layout 1440 /bani/banya-provans/",
+      "passed": true
+    },
+    {
+      "name": "bath tariff comes from hourly table 1440",
+      "passed": true
+    },
+    {
+      "name": "tariff layout 1440 /razmeshchenie/kottedzhi/banketnyj-na-18-chel/",
+      "passed": true
+    },
+    {
+      "name": "cottage tariff matches published table 1440",
+      "passed": true
+    },
+    {
+      "name": "object inquiry thumbnail loads from adaptive media",
+      "passed": true
+    },
+    {
+      "name": "versioned modules render",
+      "passed": true
+    },
+    {
+      "name": "no JavaScript exceptions",
+      "passed": true
+    }
+  ],
+  "finalPhotoChecks": [
+    {
+      "name": "supporting text contrast /razmeshchenie/",
+      "passed": true,
+      "contrast": 5.7111934552137065
+    },
+    {
+      "name": "supporting text contrast /reviews/",
+      "passed": true,
+      "contrast": 5.7111934552137065
+    },
+    {
+      "name": "supporting text contrast /kontakty/",
+      "passed": true,
+      "contrast": 5.7111934552137065
+    },
+    {
+      "name": "experience images use sufficient source resolution",
+      "passed": true
+    },
+    {
+      "name": "object inquiry thumbnail loads from adaptive media",
+      "passed": true
+    },
+    {
+      "name": "versioned modules render",
+      "passed": true
+    },
+    {
+      "name": "no JavaScript exceptions",
+      "passed": true
+    }
+  ],
+  "initialHomeResourceMB": 1.59,
+  "consoleErrors": [],
+  "coverage": [
+    "All 71 routes at 360, 390 and 1440 px; primary routes at 430 and 768 px",
+    "227 internal links",
+    "Trip parameters, phone validation, WhatsApp recipient and message, edit/copy",
+    "Favorites and comparison; review portraits and expansion",
+    "Mobile navigation, gallery keyboard/swipe support, reduced motion",
+    "YouTube opened only on request and removed on close",
+    "GitHub project path, branded 404, versioned modules",
+    "Verified tariff units and venue minimums; entered party size preserved"
+  ],
+  "boundaries": [
+    "No messages, actual bookings or payments were sent",
+    "Availability and final quote are confirmed by the administrator",
+    "External services were preserved; private booking accounts were not accessed"
+  ]
+}

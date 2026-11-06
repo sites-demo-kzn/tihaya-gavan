@@ -3618,9 +3618,11 @@
       "originalWidth": 837,
       "originalHeight": 528,
       "previousWidth": 837,
-      "outputWidth": 837,
-      "outputHeight": 528,
-      "aiRestored": false
+      "outputWidth": 1579,
+      "outputHeight": 996,
+      "aiRestored": true,
+      "restoration": "restaurant",
+      "reviewed": true
     }
   }
 }

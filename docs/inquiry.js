@@ -1,4 +1,4 @@
-import { MEDIA } from './media.js?v=5f41d54dfca9';
+import { MEDIA } from './media.js?v=e1990e019f0a';
 // No requests or personal data are sent by this module. The visitor opens their chosen messenger.
 export function createInquiry({ DATA, url, esc, icon, link, ext, toast, setupDates, datesValid, dialog }) {
   let draft = {}, lastContext = '', lastReview = false;
@@ -32,7 +32,7 @@ export function createInquiry({ DATA, url, esc, icon, link, ext, toast, setupDat
       <span class="eyebrow">${review ? 'ПОСЛЕ ВАШЕЙ ПОЕЗДКИ' : 'ДО ВСТРЕЧИ В ТИХОЙ ГАВАНИ'}</span>
       <h2 id="inquiry-title">${review ? 'Ваши <em>впечатления.</em>' : callback ? 'Давайте <em>созвонимся.</em>' : 'Спланируем <em>ваш отдых.</em>'}</h2>
       <p class="muted">${review ? 'Расскажите, как прошёл отдых. Подготовим сообщение администратору.' : callback ? 'Укажите телефон и удобное время. Подготовим просьбу о звонке для администратора в WhatsApp.' : 'Расскажите о поездке — в WhatsApp останется только отправить готовое сообщение.'}</p>
-      ${object ? `<div class="inquiry-object"><img src="${url(MEDIA[object.cover]?.variants[0]?.src||object.cover)}" alt="${esc(object.title)}"><div><strong>${esc(object.title)}</strong><span>${object.capacity ? `До ${object.capacity} гостей` : 'Обсудим детали вашей поездки'}</span></div></div>` : ''}
+      ${object ? `<div class="inquiry-object"><img src="${url(MEDIA[object.cover]?.variants[0]?.src||object.cover)}" alt="${esc(object.title)}"><div><strong>${esc(object.title)}</strong><span>${object.minGuests?`Аренда от ${object.minGuests} гостей`:object.capacity ? `${object.type==='bath'?'Для':'До'} ${object.capacity} гостей` : 'Обсудим детали вашей поездки'}</span></div></div>` : ''}
       <form id="inquiry-form" ${single ? 'data-single-date="true"' : ''}>
         ${object || callback ? `<input type="hidden" name="context" value="${esc(context)}">` : `<label>${review ? 'Тема' : 'Что вас интересует'}<input name="context" value="${esc(draft.context || context)}" required maxlength="150"></label>`}
         <div class="form-row"><label>Ваше имя<input name="name" value="${esc(draft.name || '')}" autocomplete="given-name" placeholder="Как вас зовут?" required maxlength="80"></label><label>Телефон${review ? ' (необязательно)' : ''}<input type="tel" name="phone" value="${esc(draft.phone || '')}" autocomplete="tel" inputmode="tel" placeholder="+7 999 123-45-67" ${review ? '' : 'required'} maxlength="30"></label></div>

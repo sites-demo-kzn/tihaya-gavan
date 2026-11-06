@@ -125,3 +125,5 @@ body:is([data-route="/razmeshchenie"],[data-route="/razmeshchenie/kottedzhi"],[d
  .comparison-table{min-width:650px}.comparison-table th,.comparison-table td{padding:13px}.comparison-table th:first-child{width:105px;font-size:11px}.comparison-table thead th:not(:first-child){font-size:18px}.comparison-table thead img{height:120px}
  .comparison-mobile-hint{display:block;font-size:11px;color:#63725b;line-height:1.7;margin-bottom:0}
 }
+
+.to-top .icon{transform:rotate(-90deg)}.nav-more summary>.icon{width:12px;height:12px;display:inline-block;vertical-align:middle;margin-left:4px}.nav-more[open] summary>.icon{transform:rotate(180deg)}

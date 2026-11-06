@@ -1,0 +1,84 @@
+{
+  "basis": "Detailed published tariff rows take precedence over conflicting headline amounts. Veranda guest counts are explicit minimums, not maximum capacities.",
+  "changes": [
+    {
+      "object": "Коттедж Банкетный",
+      "price": "от 21 450 ₽",
+      "source": "https://tg63.ru/razmeshchenie/kottedzhi/banketnyj-na-18-chel"
+    },
+    {
+      "object": "Терраса над Волгой",
+      "minGuests": 30,
+      "price": "550 ₽",
+      "unit": "За взрослого гостя",
+      "source": "https://tg63.ru/letnie-verany/terrasa-na-beregu"
+    },
+    {
+      "object": "Веранда Лесная",
+      "minGuests": 30,
+      "price": "550 ₽",
+      "unit": "За взрослого гостя",
+      "source": "https://tg63.ru/letnie-verany/lesnaya"
+    },
+    {
+      "object": "Веранда Свадебная",
+      "minGuests": 30,
+      "price": "550 ₽",
+      "unit": "За взрослого гостя",
+      "source": "https://tg63.ru/letnie-verany/letnyaya-veranda-svadebnaya"
+    },
+    {
+      "object": "Веранда Терраса у Лодочной",
+      "minGuests": 30,
+      "price": "550 ₽",
+      "unit": "За взрослого гостя",
+      "source": "https://tg63.ru/letnie-verany/terrasa-nad-volgoj"
+    },
+    {
+      "object": "Веранда Беседка на берегу",
+      "minGuests": 10,
+      "price": "550 ₽",
+      "unit": "За взрослого гостя",
+      "source": "https://tg63.ru/letnie-verany/besedka-na-beregu"
+    },
+    {
+      "object": "Веранда Терраса Шале",
+      "minGuests": 4,
+      "price": "600 ₽",
+      "unit": "За взрослого гостя",
+      "source": "https://tg63.ru/letnie-verany/terrasa-shale"
+    },
+    {
+      "object": "Веранда Сцена, открытая площадка",
+      "minGuests": 30,
+      "price": "450 ₽",
+      "unit": "За взрослого гостя",
+      "source": "https://tg63.ru/letnie-verany/sczena-otkrytaya-ploshhadka"
+    },
+    {
+      "object": "Веранда Беседка",
+      "minGuests": 8,
+      "price": "450 ₽",
+      "unit": "За гостя",
+      "source": "https://tg63.ru/letnie-verany/besedka"
+    },
+    {
+      "object": "Прованс",
+      "price": "от 1 500 ₽",
+      "unit": "За час, базовый тариф",
+      "source": "https://tg63.ru/bani/banya-provans"
+    },
+    {
+      "object": "Шале",
+      "price": "от 1 500 ₽",
+      "unit": "За час, базовый тариф",
+      "source": "https://tg63.ru/bani/shale"
+    },
+    {
+      "object": "Сауна Домик на Волге",
+      "price": "от 1 500 ₽",
+      "unit": "За час, базовый тариф",
+      "source": "https://tg63.ru/bani/domik-na-volge"
+    }
+  ]
+}

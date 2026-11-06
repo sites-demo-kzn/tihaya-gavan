@@ -849,7 +849,7 @@
       "title": "Коттедж Банкетный",
       "cover": "assets/8f8a0cc220d1.jpg",
       "capacity": 18,
-      "price": "от 21 449 ₽",
+      "price": "от 21 450 ₽",
       "source": "https://tg63.ru/razmeshchenie/kottedzhi/banketnyj-na-18-chel",
       "photos": [
         "assets/8f8a0cc220d1.jpg",
@@ -894,14 +894,15 @@
       "video": [
         "https://www.youtube.com/embed/vP0FPav6YIA"
       ],
-      "type": "cottage"
+      "type": "cottage",
+      "originalHeadlinePrice": "от 21 449 ₽"
     },
     {
       "route": "/letnie-verany/terrasa-na-beregu",
       "title": "Терраса над Волгой",
       "cover": "assets/97d88f049bb5.jpg",
-      "capacity": 30,
-      "price": "от 550 ₽",
+      "capacity": null,
+      "price": "550 ₽",
       "source": "https://tg63.ru/letnie-verany/terrasa-na-beregu",
       "photos": [
         "assets/97d88f049bb5.jpg",
@@ -962,14 +963,18 @@
         }
       ],
       "video": [],
-      "type": "veranda"
+      "type": "veranda",
+      "originalHeadlinePrice": "от 550 ₽",
+      "originalCapacity": 30,
+      "minGuests": 30,
+      "priceUnit": "За взрослого гостя"
     },
     {
       "route": "/letnie-verany/lesnaya",
       "title": "Веранда Лесная",
       "cover": "assets/2b9be9a4b547.jpg",
-      "capacity": 30,
-      "price": "от 1 700 ₽",
+      "capacity": null,
+      "price": "550 ₽",
       "source": "https://tg63.ru/letnie-verany/lesnaya",
       "photos": [
         "assets/2b9be9a4b547.jpg",
@@ -1010,14 +1015,18 @@
         }
       ],
       "video": [],
-      "type": "veranda"
+      "type": "veranda",
+      "originalHeadlinePrice": "от 1 700 ₽",
+      "originalCapacity": 30,
+      "minGuests": 30,
+      "priceUnit": "За взрослого гостя"
     },
     {
       "route": "/letnie-verany/letnyaya-veranda-svadebnaya",
       "title": "Веранда Свадебная",
       "cover": "assets/156d7d79ed1e.jpg",
-      "capacity": 30,
-      "price": "от 1 800 ₽",
+      "capacity": null,
+      "price": "550 ₽",
       "source": "https://tg63.ru/letnie-verany/letnyaya-veranda-svadebnaya",
       "photos": [
         "assets/156d7d79ed1e.jpg",
@@ -1056,14 +1065,18 @@
         }
       ],
       "video": [],
-      "type": "veranda"
+      "type": "veranda",
+      "originalHeadlinePrice": "от 1 800 ₽",
+      "originalCapacity": 30,
+      "minGuests": 30,
+      "priceUnit": "За взрослого гостя"
     },
     {
       "route": "/letnie-verany/terrasa-nad-volgoj",
       "title": "Веранда Терраса у Лодочной",
       "cover": "assets/15f46f48b77e.jpg",
-      "capacity": 30,
-      "price": "от 1 800 ₽",
+      "capacity": null,
+      "price": "550 ₽",
       "source": "https://tg63.ru/letnie-verany/terrasa-nad-volgoj",
       "photos": [
         "assets/15f46f48b77e.jpg",
@@ -1097,14 +1110,18 @@
         }
       ],
       "video": [],
-      "type": "veranda"
+      "type": "veranda",
+      "originalHeadlinePrice": "от 1 800 ₽",
+      "originalCapacity": 30,
+      "minGuests": 30,
+      "priceUnit": "За взрослого гостя"
     },
     {
       "route": "/letnie-verany/besedka-na-beregu",
       "title": "Веранда Беседка на берегу",
       "cover": "assets/d16ee9ca24a4.jpg",
-      "capacity": 10,
-      "price": "от 5 500 ₽",
+      "capacity": null,
+      "price": "550 ₽",
       "source": "https://tg63.ru/letnie-verany/besedka-na-beregu",
       "photos": [
         "assets/d16ee9ca24a4.jpg",
@@ -1155,14 +1172,18 @@
         }
       ],
       "video": [],
-      "type": "veranda"
+      "type": "veranda",
+      "originalHeadlinePrice": "от 5 500 ₽",
+      "originalCapacity": 10,
+      "minGuests": 10,
+      "priceUnit": "За взрослого гостя"
     },
     {
       "route": "/letnie-verany/terrasa-shale",
       "title": "Веранда Терраса Шале",
       "cover": "assets/2bab1fb6b637.jpg",
-      "capacity": 4,
-      "price": "от 1 000 ₽",
+      "capacity": null,
+      "price": "600 ₽",
       "source": "https://tg63.ru/letnie-verany/terrasa-shale",
       "photos": [
         "assets/2bab1fb6b637.jpg",
@@ -1208,14 +1229,18 @@
         }
       ],
       "video": [],
-      "type": "veranda"
+      "type": "veranda",
+      "originalHeadlinePrice": "от 1 000 ₽",
+      "originalCapacity": 4,
+      "minGuests": 4,
+      "priceUnit": "За взрослого гостя"
     },
     {
       "route": "/letnie-verany/sczena-otkrytaya-ploshhadka",
       "title": "Веранда Сцена, открытая площадка",
       "cover": "assets/885dd8ed2f94.jpg",
-      "capacity": 30,
-      "price": "от 1 500 ₽",
+      "capacity": null,
+      "price": "450 ₽",
       "source": "https://tg63.ru/letnie-verany/sczena-otkrytaya-ploshhadka",
       "photos": [
         "assets/885dd8ed2f94.jpg",
@@ -1262,14 +1287,18 @@
         }
       ],
       "video": [],
-      "type": "veranda"
+      "type": "veranda",
+      "originalHeadlinePrice": "от 1 500 ₽",
+      "originalCapacity": 30,
+      "minGuests": 30,
+      "priceUnit": "За взрослого гостя"
     },
     {
       "route": "/letnie-verany/besedka",
       "title": "Веранда Беседка",
       "cover": "assets/ff8e90617eb9.jpg",
-      "capacity": 8,
-      "price": "от 450 ₽",
+      "capacity": null,
+      "price": "450 ₽",
       "source": "https://tg63.ru/letnie-verany/besedka",
       "photos": [
         "assets/ff8e90617eb9.jpg",
@@ -1295,7 +1324,11 @@
         }
       ],
       "video": [],
-      "type": "veranda"
+      "type": "veranda",
+      "originalHeadlinePrice": "от 450 ₽",
+      "originalCapacity": 8,
+      "minGuests": 8,
+      "priceUnit": "За гостя"
     },
     {
       "route": "/bani/bannyj-chan-tihaya-gavan",
@@ -1333,7 +1366,7 @@
       "title": "Прованс",
       "cover": "assets/4fab83f95b9c.jpg",
       "capacity": 6,
-      "price": "от 1 200 ₽",
+      "price": "от 1 500 ₽",
       "source": "https://tg63.ru/bani/banya-provans",
       "photos": [
         "assets/4fab83f95b9c.jpg",
@@ -1369,7 +1402,9 @@
         }
       ],
       "video": [],
-      "type": "bath"
+      "type": "bath",
+      "originalHeadlinePrice": "от 1 200 ₽",
+      "priceUnit": "За час, базовый тариф"
     },
     {
       "route": "/bani/shale",
@@ -1408,7 +1443,9 @@
         }
       ],
       "video": [],
-      "type": "bath"
+      "type": "bath",
+      "originalHeadlinePrice": "от 1 500 ₽",
+      "priceUnit": "За час, базовый тариф"
     },
     {
       "route": "/bani/domik-na-volge",
@@ -1457,7 +1494,9 @@
         }
       ],
       "video": [],
-      "type": "bath"
+      "type": "bath",
+      "originalHeadlinePrice": "от 1 500 ₽",
+      "priceUnit": "За час, базовый тариф"
     },
     {
       "route": "/meropriyatiya/korporativnye-meropriyatiya",
@@ -6057,6 +6096,7 @@
       "assets/ad82e3d47029.jpg",
       "assets/c45cc1987af8.jpg",
       "assets/768c38fb0261.jpg"
-    ]
+    ],
+    "restaurant": "assets/aa3dfc592de9.jpg"
   }
 }

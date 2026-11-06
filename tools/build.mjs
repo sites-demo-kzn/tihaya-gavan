@@ -3,7 +3,7 @@ import { createHash } from 'node:crypto';
 import { MEDIA } from '../docs/media.js';
 const data=JSON.parse(await fs.readFile('content.json','utf8'));
 await fs.writeFile('docs/content.js','export const DATA = '+JSON.stringify(data)+';\n');
-const modules=['app.js','inquiry.js','enhancements.js','motion.js','comparison.js','content.js','media.js'];
+const modules=['app.js','inquiry.js','enhancements.js','motion.js','viewport.js','comparison.js','content.js','media.js'];
 const normalized=await Promise.all(modules.map(async name=>[name,(await fs.readFile('docs/'+name,'utf8')).replace(/\.js\?v=[a-f0-9]+/g,'.js')]));
 const assetVersion=createHash('sha256').update(normalized.map(([name,code])=>name+'\n'+code).join('\n')).update(await fs.readFile('docs/style.css')).update(await fs.readFile('docs/motion.css')).digest('hex').slice(0,12);
 for(const [name,code]of normalized)await fs.writeFile('docs/'+name,code.replace(/from (['"])(\.\/[^'"\n]+\.js)\1/g,(_,quote,file)=>'from '+quote+file+'?v='+assetVersion+quote));

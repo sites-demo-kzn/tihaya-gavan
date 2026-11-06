@@ -1,8 +1,8 @@
-import { DATA } from './content.js?v=8e2fccf584c7';
-import { createInquiry } from './inquiry.js?v=8e2fccf584c7';
-import { MEDIA } from './media.js?v=8e2fccf584c7';
-import { enhanceInterface } from './enhancements.js?v=8e2fccf584c7';
-import { setupComparison } from './comparison.js?v=8e2fccf584c7';
+import { DATA } from './content.js?v=4053abaf9ae6';
+import { createInquiry } from './inquiry.js?v=4053abaf9ae6';
+import { MEDIA } from './media.js?v=4053abaf9ae6';
+import { enhanceInterface } from './enhancements.js?v=4053abaf9ae6';
+import { setupComparison } from './comparison.js?v=4053abaf9ae6';
 const ROOT=new URL('./',import.meta.url), route=document.body.dataset.route;
 const $=(s,n=document)=>n.querySelector(s), $$=(s,n=document)=>[...n.querySelectorAll(s)];
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

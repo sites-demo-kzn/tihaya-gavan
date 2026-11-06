@@ -1,6 +1,8 @@
-import { setupMotion } from './motion.js?v=8e2fccf584c7';
+import { setupMotion } from './motion.js?v=4053abaf9ae6';
+import { fitVisibleViewport } from './viewport.js?v=4053abaf9ae6';
 
 export function enhanceInterface({ DATA, url, icon, openInquiry }) {
+  fitVisibleViewport();
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
   const header = document.querySelector('.header');
   const progress = document.createElement('div'); progress.className = 'reading-progress'; progress.setAttribute('aria-hidden','true');document.body.append(progress);
